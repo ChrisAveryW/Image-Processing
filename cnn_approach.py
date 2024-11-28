@@ -22,15 +22,7 @@ def display_segments(text_file, path=None):
     return mapped
     
 
-def test_approach():
-    max_segment = 35
-    mask = np.random.randint(0, max_segment, size=(320, 240, 3))
 
-def unet_model(input_size=(320, 240, 3)):
-    pass
-
-def load_prepare():
-    pass
 
 if __name__ == "__main__":
     img = display_segments(None, path="stanford_background_dataset/labels/0000087.layers.txt")
