@@ -165,6 +165,6 @@ cython_debug/
 
 ### own 
 
-.jpg
-stanford_background_dataset/
-.pdf
+#.jpg
+#stanford_background_dataset/
+#.pdf
